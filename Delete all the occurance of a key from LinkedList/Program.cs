@@ -16,7 +16,7 @@ namespace Delete_all_the_occurance_of_a_key_from_LinkedList
             public Node(int val = 0)
             {
                 value = val;
-                next = null;
+                next = null; 
             }
         }
 
